@@ -50,4 +50,4 @@ Add this line to your host machine's *"hosts"* file:
 
 Save and visit [http://my-blog.local.com](http://my-blog.local.com).
 
-Please see the [complete tutorial](http://blog.osteel.me/posts/2015/02/24/install-and-deploy-a-pelican-blog-using-fabric-part-1-local-environment.html "Install and deploy a Pelican blog using Fabric") for a full explanation.
+Please see the [complete tutorial](http://blog.osteel.me/posts/2015/02/24/install-and-deploy-a-pelican-blog-using-fabric-part-1-local-environment.html "Install and deploy a Pelican blog using Fabric") for a full explanation.# vagrant-pelican-blog
